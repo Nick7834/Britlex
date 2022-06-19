@@ -2006,6 +2006,10 @@ input{
     line-height: 24px;
     border-radius: 0 10px 10px 0;
   }
+  
+  .button_form {
+    margin-left: 0;
+  }
 
   .contact_email {
     padding: 17px 24px;
